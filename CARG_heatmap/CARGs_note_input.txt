@@ -1,0 +1,42 @@
+OTU_ID_Taxonomy_name	Phyla	CARGs	p-value_BL_W6
+6___Prevotella copri	Bacteroidetes	CARG6	0.00012207
+79__Muribaculaceae	Bacteroidetes	CARG4	0.00012207
+11__Subdoligranulum variabile	Firmicutes	CARG1	0.00201416
+4___Bifidobacterium longum	Actinobacteria	CARG1	0.00201416
+21__Coprobacillus sp.	Firmicutes	CARG6	0.002624512
+85__Blautia obeum	Firmicutes	CARG1	0.003356934
+38_______Phascolarctobacterium succinatutens	Firmicutes	CARG1	0.004272461
+46__Clostridium leptum	Firmicutes	CARG3	0.004272461
+53__Bacteroides plebeius	Firmicutes	CARG1	0.004272461
+56__Bacteroides sp	Bacteroidetes	CARG1	0.004272461
+32__Mollicultes	Tenericutes	CARG4	0.008361816
+41__Eubacterium oxidoreducens	Firmicutes	CARG7	0.015075684
+26__Bacteroides ovatus	Bacteroidetes	CARG5	0.018066406
+5___Ruminococcus bromii	Firmicutes	CARG7	0.018066406
+7___Bacteroides uniformis	Bacteroidetes	CARG7	0.02154541
+432_Bacteroides cellulosilyticus	Bacteroidetes	CARG3	0.02557373
+52__Coprococcus comes	Firmicutes	CARG6	0.02557373
+55__Coprococcus eutactus	Firmicutes	CARG7	0.030151367
+65__Ruminococcus lactaris	Firmicutes	CARG7	0.035339355
+30__Parabacteroides  distasonis	Bacteroidetes	CARG5	0.041259766
+27__Blautia wexlerae	Firmicutes	CARG2	0.055358887
+42__Megamonas funiformis	Firmicutes	CARG4	0.055358887
+67__Oscillibacter sp.	Firmicutes	CARG4	0.055358887
+711_Eubacterium g23	Firmicutes	CARG4	0.055358887
+98__Bacteroides massiliensis	Bacteroidetes	CARG6	0.055358887
+13__Fusicatenibacter saccharivorans	Firmicutes	CARG2	0.063720703
+2___Agathobacter rectalis	Firmicutes	CARG7	0.063720703
+20__Ruminococcus faecis	Firmicutes	CARG6	0.063720703
+50__Ruminococcus torques	Firmicutes	CARG7	0.063720703
+61__Lachnospiraceae	Firmicutes	CARG2	0.063720703
+73__Eubacterium g23	Firmicutes	CARG3	0.063720703
+151_Bacteroides mediterraneensis	Bacteroidetes	CARG4	0.072998047
+16__Phascolarctobacterium faecium	Firmicutes	CARG3	0.083251953
+62__Bacteroides sp.	Bacteroidetes	CARG4	0.083251953
+69__Adlercreutzia equolifaciens 	Firmicutes	CARG6	0.083251953
+71__Ruminococcaceae	Firmicutes	CARG4	0.083251953
+25__Streptococcus vestibularis	Firmicutes	CARG7	0.094604492
+66__Bacteroides fragilis	Bacteroidetes	CARG5	0.094604492
+72__Eubacterium g24	Firmicutes	CARG5	0.094604492
+76__Alistipes obesi	Bacteroidetes	CARG7	0.094604492
+80__Barnesiella sp.	Bacteroidetes	CARG3	0.094604492
