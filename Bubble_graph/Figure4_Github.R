@@ -2,7 +2,7 @@ library(ggplot2)
 
 data(mpg, package="ggplot2")
 
-mpg <- read.csv("/Users/Nguyenphuong/Documents/Shanenguyen/MSc_study_R/FYBER/Arabino/Bubble/template_Sig_taxa.csv")
+mpg <- read.csv("template_Sig_taxa.csv")
 
 Percent = mpg$Absolute.Change
 Response = as.factor(mpg$Type)
