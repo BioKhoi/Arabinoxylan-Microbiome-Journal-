@@ -37,14 +37,6 @@ bi.p = fviz_pca_biplot(
   legend.title     = "Groups",
   mean.point       = FALSE
 )
-#------------------------------------------------------------------------------------
-Euclidean_matrix = vegdist(rawdata.PCA, method = "euclidean")
-adonis(Euclidean_matrix ~ Cluster_Propionate + Sex, data= rawdata,permutations = 999)
-#------------------------------------------------------------------------------------
-
-
-
-
 
 # Figure 6: AX group: 15 OTU relative abundance (W6-BL): Propionate Clusters
 
@@ -74,14 +66,6 @@ groups = as.factor(rawdata$Cluster_Propionate[1:15])
   mean.point       = FALSE
 
 )
-#------------------------------------------------------------------
-Euclidean_matrix = vegdist(rawdata.PCA, method = "euclidean")
-adonis(Euclidean_matrix ~ Cluster_Propionate + Sex, data= rawdata,permutations = 999)
-#------------------------------------------------------------------
-
-
-
-
 
 
 # Figure 6: AX group: CARGs relative abundance (W6-BL): Propionate Clusters
@@ -113,10 +97,6 @@ groups = as.factor(rawdata$Cluster_Propionate[1:15])
   mean.point       = FALSE
   
 )
-#------------------------------------------------------------------
-  Euclidean_matrix = vegdist(rawdata.PCA, method = "euclidean")
-  adonis(Euclidean_matrix ~ Cluster_Propionate + Sex, data = rawdata, permutations = 999)
-#------------------------------------------------------------------
 
 
 
